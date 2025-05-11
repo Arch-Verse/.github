@@ -1,1 +1,1 @@
-![banner](images/arch_lignux.png)
+![banner](../images/arch_lignux.png)
